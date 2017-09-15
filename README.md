@@ -1,1 +1,1 @@
-# a-tale-to-learn-by-Gino-Kalyun-klass
+# a-tale-to-learn-by-Gino-Kalyun-.NET17
